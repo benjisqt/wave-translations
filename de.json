@@ -1,0 +1,43 @@
+{
+  "waveai": {
+    "thinking": "waveAI generiert...",
+    "model_change": "⚠️ Das AI-Modell wurde aufgrund des hohen Verkehrsaufkommens geändert.",
+    "disclaimer": "-# waveAI basiert auf Google Gemini und kann fehlerhaft sein.",
+    "lyrics": "Hier ist der Text zu"
+  },
+  "utility": {
+    "lang_change": "Die Sprache wurde erfolgreich auf geändert"
+  },
+  "misc": {
+    "will_dismiss": "-# Diese Nachricht wird in 5 Sekunden geschlossen."
+  },
+  "error": {
+    "missing_perms": "❌ Sie verfügen nicht über die entsprechenden Berechtigungen, um diesen Befehl auszuführen.",
+    "missing_lang": "❓ Das ist keine gültige Sprache.\nGültige Sprachen:",
+    "no_cmds_found": "❓ Es wurden keine Befehle in dieser Kategorie gefunden.",
+    "ai_error": "❌ Beim Abrufen der KI-Antwort ist ein Fehler aufgetreten.",
+    "no_lyrics": "❌ Beim Abrufen deines Textes ist ein Fehler aufgetreten.",
+    "no_cmd": "❓ Ein Befehl mit diesem Namen wurde nicht gefunden."
+  },
+  "help": {
+    "category_descriptions": {
+      "info": "Erhalten Sie nützliche Informationen mit nur 1 Klick.",
+      "moderation": "Schützen Sie Ihren Server mit den internen Moderationstools von wave.",
+      "fun": "Für die heiteren Momente mit wave.",
+      "utility": "Tools und Dienstprogramme zur Verbesserung der Serverfunktionalität.",
+      "waveAI": "Alle eingebauten waveAI Erweiterungen anzeigen!"
+    },
+    "choose": "Wählen Sie eine Kategorie...",
+    "select": "Wählen Sie eine Kategorie aus dem unten stehenden Menü, um Befehle in dieser Kategorie zu erhalten!",
+    "triggers": "Auslöser",
+    "page": "Seite",
+    "category": "Kategorie",
+    "description": "Beschreibung"
+  },
+  "command_descriptions": {
+    "help": "Zeigt alle verfügbaren Befehle und wie man sie verwendet.",
+    "changelang": "Ändern Sie die Sprache von wave auf Ihrem Server.",
+    "uptime": "Zeigt die aktive Betriebszeit an.",
+    "lyrics": "Abrufen von Songtexten über waveAI!"
+  }
+}

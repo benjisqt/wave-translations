@@ -1,0 +1,43 @@
+{
+  "waveai": {
+    "thinking": "waveAI is generating...",
+    "model_change": "⚠ The AI model has been changed due to high traffic.",
+    "disclaimer": "-# waveAI is based on Google Gemini and can be incorrect.",
+    "lyrics": "Here's the lyrics to"
+  },
+  "utility": {
+    "lang_change": "The language has successfully been changed to"
+  },
+  "misc": {
+    "will_dismiss": "-# This message will dismiss in 5 seconds."
+  },
+  "error": {
+    "missing_perms": "❌ You do not have the appropriate permissions to execute this command.",
+    "missing_lang": "❓ That is not a valid language.\nValid languages:",
+    "no_cmds_found": "❓ No commands were found in that category.",
+    "ai_error": "❌ An error occurred whilst getting the AI response.",
+    "no_lyrics": "❌ An error occured getting your lyrics.",
+    "no_cmd": "❓ A command by that name was not found."
+  },
+  "help": {
+    "category_descriptions": {
+      "info": "Get useful information in just 1 click.",
+      "moderation": "Protect your server with wave's in-house moderation tools.",
+      "fun": "For those light-hearted moments with wave.",
+      "utility": "Tools and utilities to improve server functionality.",
+      "waveAI": "View all waveAI Extensions built-in!"
+    },
+    "choose": "Choose a category...",
+    "select": "Select a category from the menu below to get commands in that category!",
+    "triggers": "Triggers",
+    "page": "Page",
+    "category": "Category",
+    "description": "Description"
+  },
+  "command_descriptions": {
+    "help": "Shows all available commands and how to use them.",
+    "changelang": "Change the language of wave in your server.",
+    "uptime": "Shows wave's active uptime.",
+    "lyrics": "Get lyrics via waveAI!"
+  }
+}
